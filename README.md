@@ -83,3 +83,7 @@ makes a worktree dirty.
 - No command to remove worktrees: `git worktree remove <dir>` (and
   `git branch -D <branch>`).
 - `gg pr checkout` does not update an existing PR worktree; run `git pull` in it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
